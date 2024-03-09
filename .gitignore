@@ -1,0 +1,16 @@
+# visual studio 2022 files basura
+.vs/
+**/obj/
+**/bin/
+*.suo
+*.user
+*.sln.cache
+
+# MAUI files basura
+*.vsidx
+*.assets.cache
+*.AssemblyReferences.cache
+*.nuget.dgspec.json
+project.assets.json
+project.nuget.cache
+*.GeneratedMSBuildEditorConfig.editorconfig
